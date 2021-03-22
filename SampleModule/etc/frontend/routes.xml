@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
     <router id="standard">
-        <route id="MagentoSM" frontName="MagentoSM">
+        <route id="magentosm" frontName="test-page">
             <module name="MagentoSM_SampleModule"/>
         </route>
     </router>

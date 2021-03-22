@@ -20,7 +20,7 @@ class Hello extends Template
     }
 
     /**
-     * @return \MagentoSM\SampleModule\Model\Item[]
+     * @return \Magento\Framework\DataObject[]
      */
     public function getItems()
     {
