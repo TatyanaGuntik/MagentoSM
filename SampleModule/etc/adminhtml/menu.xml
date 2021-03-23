@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="MagentoSM_SampleModule::mastering" title="Mastering"
+             module="MagentoSM_SampleModule" resource="MagentoSM_SampleModule::mastering"
+             translate="title" sortOrder="900" action="mastering"/>
+    </menu>
+</config>
